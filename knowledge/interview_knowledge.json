@@ -1,0 +1,380 @@
+{
+  "greeting": {
+    "questions": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "answer": "Hello! It's great to speak with you. I'm ready to discuss Srija's background, education, experience, projects, skills, and technical work."
+  },
+  "introduction": {
+    "questions": [
+      "tell me about yourself",
+      "tell me about yourself professionally",
+      "introduce yourself",
+      "give me your introduction",
+      "walk me through your background",
+      "tell me about your background",
+      "who is srija",
+      "tell me about srija"
+    ],
+    "answer": "Hi, I'm Srija Ayanaboyana. I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Malla Reddy College of Engineering and Technology. I have hands-on experience in Artificial Intelligence, Machine Learning, and Software Development through internships and real-world projects. I'm currently working as an Artificial Intelligence Intern at Tayana Solutions, where I work on AI and Machine Learning models, Generative AI, and NLP-based solutions. My technical skills include Python, Java, SQL, Machine Learning, Deep Learning, Data Analysis, and Web Development. I'm passionate about solving business problems using AI and continuously learning emerging technologies."
+  },
+  "professional_summary": {
+    "questions": [
+      "what is your professional summary",
+      "give me your professional summary",
+      "summarize your profile",
+      "give me a summary of your profile",
+      "describe your professional profile"
+    ],
+    "answer": "Srija is an AI and ML undergraduate with hands-on experience in Artificial Intelligence, Machine Learning, and Software Development through internships and real-world projects. She is skilled in Python, Java, SQL, Machine Learning, Deep Learning, Data Analysis, and Web Development. She has experience building predictive models, data-driven applications, and AI-powered solutions. She is passionate about solving business problems using AI and continuously learning emerging technologies."
+  },
+  "education": {
+    "questions": [
+      "what is your educational background",
+      "tell me about your education",
+      "tell me about your academic background",
+      "what did you study",
+      "what is your degree",
+      "where did you study",
+      "which college are you from",
+      "what are your academic qualifications",
+      "what is your cgpa",
+      "what is your btech",
+      "when will you graduate"
+    ],
+    "answer": "Srija is pursuing a B.Tech in Computer Science with an Artificial Intelligence and Machine Learning specialization at Malla Reddy College of Engineering and Technology from 2022 to 2026, with a CGPA of 8.67. She completed her Intermediate at Narayana Junior College from 2020 to 2022 with 94.6 percent. She completed her SSC at Narayana High School from 2019 to 2020 with a CGPA of 10.0."
+  },
+  "experience_overview": {
+    "questions": [
+      "tell me about your work experience",
+      "tell me about your experience",
+      "what work experience do you have",
+      "walk me through your experience",
+      "what internships have you done",
+      "tell me about your internships",
+      "what professional experience do you have"
+    ],
+    "answer": "Srija has internship experience in Artificial Intelligence and Salesforce development. She is currently working as an Artificial Intelligence Intern at Tayana Solutions, where she works on AI and Machine Learning models, data preprocessing, feature engineering, model evaluation, Generative AI, and NLP-based solutions. Previously, she worked as a Salesforce Developer Intern in the Agentblazer Champion Program, where she worked with Apex, Lightning Web Components, process automation, object relationships, CRM data management, and business workflows."
+  },
+  "ai_internship": {
+    "questions": [
+      "tell me about your ai internship",
+      "tell me about your internship at tayana",
+      "what did you do at tayana solutions",
+      "what did you work on during your ai internship",
+      "what was your role at tayana solutions",
+      "describe your ai internship",
+      "what kind of work did you do at tayana"
+    ],
+    "answer": "Srija is currently an Artificial Intelligence Intern at Tayana Solutions. Her work includes building and optimizing AI and Machine Learning models using Python and machine learning frameworks. She applies data preprocessing, feature engineering, and model evaluation techniques. She also works on Generative AI and NLP-based solutions for real-world applications and collaborates with cross-functional teams to develop AI-driven products."
+  },
+  "ai_internship_role": {
+    "questions": [
+      "what was your role as an ai intern",
+      "what was your contribution at tayana",
+      "what did you contribute during your ai internship",
+      "what was your responsibility at tayana solutions"
+    ],
+    "answer": "As an Artificial Intelligence Intern at Tayana Solutions, Srija's work includes building and optimizing AI and Machine Learning models, applying data preprocessing and feature engineering, performing model evaluation, and working on Generative AI and NLP-based solutions. She also collaborates with cross-functional teams on AI-driven products."
+  },
+  "ai_internship_responsibilities": {
+    "questions": [
+      "what were your responsibilities during your internship",
+      "what responsibilities did you have",
+      "what did you do as an ai intern",
+      "what were your main responsibilities at tayana",
+      "what tasks did you perform during your internship"
+    ],
+    "answer": "Srija's responsibilities at Tayana Solutions included building and optimizing AI and Machine Learning models, performing data preprocessing, applying feature engineering, evaluating models, working on Generative AI and NLP-based solutions, and collaborating with cross-functional teams."
+  },
+  "ai_internship_technologies": {
+    "questions": [
+      "what technologies did you use during your ai internship",
+      "what tools did you use at tayana",
+      "what technologies did you work with at tayana",
+      "which programming language did you use during your internship",
+      "how did you use python during your internship"
+    ],
+    "answer": "During her AI internship, Srija used Python and machine learning frameworks for AI and Machine Learning work. Her internship also involved Generative AI and NLP-based solutions, along with data preprocessing, feature engineering, and model evaluation."
+  },
+  "generative_ai_internship": {
+    "questions": [
+      "did you work with generative ai",
+      "what did you do with generative ai",
+      "tell me about your generative ai experience",
+      "how is generative ai related to your internship"
+    ],
+    "answer": "Yes. During her Artificial Intelligence internship at Tayana Solutions, Srija worked on Generative AI-based solutions for real-world applications."
+  },
+  "nlp_internship": {
+    "questions": [
+      "did you work with nlp",
+      "what did you do with nlp",
+      "tell me about your nlp experience",
+      "how did you use nlp during your internship"
+    ],
+    "answer": "During her Artificial Intelligence internship at Tayana Solutions, Srija worked on NLP-based solutions for real-world applications."
+  },
+  "internship_teamwork": {
+    "questions": [
+      "did you work in a team during your internship",
+      "did you collaborate with a team",
+      "how did you work with your team",
+      "did you work with cross functional teams"
+    ],
+    "answer": "Yes. During her AI internship at Tayana Solutions, Srija collaborated with cross-functional teams to develop AI-driven products."
+  },
+  "salesforce_internship": {
+    "questions": [
+      "tell me about your salesforce internship",
+      "what did you do in your salesforce internship",
+      "tell me about your agentblazer experience",
+      "what did you work on in the agentblazer program",
+      "what is your salesforce experience",
+      "what did you do with apex",
+      "what did you do with lwc"
+    ],
+    "answer": "Srija worked as a Salesforce Developer Intern in the Agentblazer Champion Program from May 2025 to July 2025. She developed Salesforce applications using Apex and Lightning Web Components. She also worked on process automation, object relationships, CRM data management, Salesforce development projects, and business workflows."
+  },
+  "salesforce_technologies": {
+    "questions": [
+      "what technologies did you use in your salesforce internship",
+      "what is apex",
+      "how did you use apex",
+      "what are lightning web components",
+      "how did you use lwc",
+      "what did you develop using salesforce"
+    ],
+    "answer": "During her Salesforce Developer internship, Srija worked with Apex and Lightning Web Components. She used them while developing Salesforce applications and working on Salesforce development projects and business workflows."
+  },
+  "salesforce_achievements": {
+    "questions": [
+      "what did you achieve in salesforce",
+      "what superbadges did you earn",
+      "what are your salesforce achievements",
+      "what did you accomplish in the agentblazer program"
+    ],
+    "answer": "During the Agentblazer Champion Program, Srija earned Superbadges in Apex Specialist, Object Relationships, and LWC Basics."
+  },
+  "projects_overview": {
+    "questions": [
+      "tell me about your projects",
+      "what projects have you worked on",
+      "what are your main projects",
+      "walk me through your projects",
+      "describe your projects",
+      "which projects have you built"
+    ],
+    "answer": "Srija has worked on two main projects. The first is an AI-Powered Career Recommender and Roadmap Generator, which recommends career paths based on user skills and interests using Machine Learning and NLP techniques. The second is a Credit Card Fraud Detection System, which uses Machine Learning algorithms to identify suspicious transactions and includes data preprocessing, feature engineering, and model evaluation."
+  },
+  "career_project": {
+    "questions": [
+      "tell me about your career recommender project",
+      "explain your career recommender project",
+      "what is your ai career recommender project",
+      "tell me about the roadmap generator",
+      "what did you build for career recommendations",
+      "what is the career recommender and roadmap generator"
+    ],
+    "answer": "Srija developed an AI-Powered Career Recommender and Roadmap Generator. It is an AI-based system that recommends career paths based on a user's skills and interests. It applies Machine Learning and NLP techniques to generate personalized career recommendations and learning roadmaps."
+  },
+  "career_project_purpose": {
+    "questions": [
+      "why did you build the career recommender",
+      "what is the purpose of your career recommender",
+      "what problem does your career recommender solve",
+      "why is the career recommender useful",
+      "what is the objective of your career recommender"
+    ],
+    "answer": "The purpose of Srija's Career Recommender and Roadmap Generator is to recommend suitable career paths based on user skills and interests and generate personalized learning roadmaps using Machine Learning and NLP techniques."
+  },
+  "career_project_work": {
+    "questions": [
+      "what did you do in the career recommender project",
+      "what was your role in the career recommender",
+      "what was your contribution to the project",
+      "what did you implement in the career recommender"
+    ],
+    "answer": "Srija developed the AI-Powered Career Recommender and Roadmap Generator. Her documented work involved applying Machine Learning and NLP techniques to recommend career paths based on user skills and interests and generate personalized learning roadmaps."
+  },
+  "career_project_technologies": {
+    "questions": [
+      "what technologies did you use in the career recommender",
+      "what machine learning techniques did you use in the career project",
+      "what ai technologies were used in the career recommender",
+      "what role did nlp play in your career recommender"
+    ],
+    "answer": "The documented technologies and techniques used in Srija's Career Recommender and Roadmap Generator are Machine Learning and Natural Language Processing. The available project information does not document specific algorithms, datasets, or model metrics."
+  },
+  "career_project_challenges": {
+    "questions": [
+      "what challenges did you face in the career recommender",
+      "what technical challenges did you face in the career project",
+      "what problems did you face while building the career recommender",
+      "how did you overcome challenges in the career recommender"
+    ],
+    "answer": "The specific technical challenges and the exact solutions Srija used in the Career Recommender project are not documented in her current resume or interview knowledge, so I don't want to invent details."
+  },
+  "fraud_project": {
+    "questions": [
+      "tell me about your fraud detection project",
+      "explain your credit card fraud detection project",
+      "what is your fraud detection system",
+      "what did you do in your fraud detection project",
+      "what machine learning project did you build"
+    ],
+    "answer": "Srija built a Credit Card Fraud Detection System using Machine Learning algorithms to identify suspicious transactions. She performed data preprocessing, feature engineering, and model evaluation to improve prediction accuracy."
+  },
+  "fraud_project_purpose": {
+    "questions": [
+      "why did you build the fraud detection project",
+      "what is the purpose of your fraud detection system",
+      "what problem does your fraud detection project solve",
+      "why is fraud detection important"
+    ],
+    "answer": "The purpose of Srija's Credit Card Fraud Detection System is to use Machine Learning algorithms to identify suspicious transactions."
+  },
+  "fraud_project_work": {
+    "questions": [
+      "what did you do in the fraud detection project",
+      "what was your role in the fraud detection project",
+      "what was your contribution to the fraud detection project",
+      "what did you implement in the fraud detection system"
+    ],
+    "answer": "Srija built the Credit Card Fraud Detection System using Machine Learning algorithms to identify suspicious transactions. Her documented work included data preprocessing, feature engineering, and model evaluation."
+  },
+  "fraud_project_technologies": {
+    "questions": [
+      "what technologies did you use in the fraud detection project",
+      "what machine learning techniques did you use for fraud detection",
+      "what did you use to build the fraud detection system",
+      "what algorithms did you use for fraud detection"
+    ],
+    "answer": "The documented information states that Srija used Machine Learning algorithms for the Credit Card Fraud Detection System and performed data preprocessing, feature engineering, and model evaluation. The specific algorithms and dataset are not documented in the current resume."
+  },
+  "fraud_project_evaluation": {
+    "questions": [
+      "how did you evaluate the fraud detection model",
+      "how did you test the fraud detection model",
+      "how did you improve prediction accuracy",
+      "what model evaluation did you perform"
+    ],
+    "answer": "Srija performed model evaluation as part of the Credit Card Fraud Detection System and used data preprocessing and feature engineering to improve prediction accuracy. The specific evaluation metrics and numerical results are not documented in the current resume."
+  },
+  "project_learning": {
+    "questions": [
+      "what did you learn from your projects",
+      "what did you learn while building your projects",
+      "what skills did you gain from your projects",
+      "what did your projects teach you"
+    ],
+    "answer": "The documented project work gave Srija hands-on experience with Machine Learning, NLP, data preprocessing, feature engineering, model evaluation, and building AI-powered solutions. Her projects also involved applying AI techniques to practical problems such as career recommendations and fraud detection."
+  },
+  "project_challenges": {
+    "questions": [
+      "what challenges did you face in your projects",
+      "what technical challenges did you face",
+      "what problems did you face while building your projects",
+      "how did you overcome challenges in your projects"
+    ],
+    "answer": "The specific technical challenges and the exact solutions Srija used are not documented in the current resume, so I don't want to invent details."
+  },
+  "technical_skills": {
+    "questions": [
+      "what are your technical skills",
+      "tell me about your technical skills",
+      "what technologies do you know",
+      "what programming languages do you know",
+      "what programming languages are you familiar with",
+      "what is your technical background",
+      "what tools and technologies have you worked with"
+    ],
+    "answer": "Srija's programming languages include Java, Python, and C++. Her web technologies include HTML, CSS, JavaScript, and Spring Boot. She has worked with Pandas, NumPy, Matplotlib, SQL, and MySQL, along with core concepts such as DSA, OOP, and DBMS. Her AI and ML skills include Machine Learning, Deep Learning, Data Analysis, Model Evaluation, and Feature Engineering."
+  },
+  "python": {
+    "questions": [
+      "what is your experience with python",
+      "how have you used python",
+      "are you comfortable with python",
+      "what have you done using python"
+    ],
+    "answer": "Python is one of Srija's programming languages, and she has used it for AI and Machine Learning work. During her AI internship, she worked on AI and ML models using Python and machine learning frameworks."
+  },
+  "java": {
+    "questions": [
+      "what is your experience with java",
+      "do you know java",
+      "are you comfortable with java",
+      "what programming languages do you know"
+    ],
+    "answer": "Java is one of Srija's programming languages. Her resume lists Java along with Python and C++ as her programming languages."
+  },
+  "sql_database": {
+    "questions": [
+      "what is your experience with sql",
+      "do you know sql",
+      "what databases do you know",
+      "what is your experience with mysql",
+      "are you familiar with databases"
+    ],
+    "answer": "Srija has skills in SQL and MySQL. She also has a Solve It with SQL certification from Oracle Academy."
+  },
+  "ai_ml": {
+    "questions": [
+      "what is your experience in ai",
+      "what is your experience in machine learning",
+      "tell me about your ai ml skills",
+      "what ai technologies do you know",
+      "what machine learning skills do you have"
+    ],
+    "answer": "Srija has experience in Artificial Intelligence and Machine Learning through internships and projects. Her AI and ML skills include Machine Learning, Deep Learning, Data Analysis, Model Evaluation, and Feature Engineering. She is also interested in Generative AI and NLP."
+  },
+  "certifications": {
+    "questions": [
+      "what certifications do you have",
+      "tell me about your certifications",
+      "what certificates have you completed",
+      "do you have any technical certifications"
+    ],
+    "answer": "Srija has completed Solve It with SQL from Oracle Academy, Python for Everyone from Coursera, Salesforce Developer through the Agentblazer Champion program, and Cambridge English Empower at Level C1."
+  },
+  "soft_skills": {
+    "questions": [
+      "what are your soft skills",
+      "what are your strengths",
+      "what are your key strengths",
+      "tell me about your interpersonal skills"
+    ],
+    "answer": "Srija's soft skills include leadership, teamwork, problem solving, communication, and analytical thinking."
+  },
+  "career_interests": {
+    "questions": [
+      "what are your career interests",
+      "what are you interested in",
+      "what area do you want to work in",
+      "what kind of role are you looking for",
+      "what are your career goals",
+      "what type of work interests you"
+    ],
+    "answer": "Srija is interested in Artificial Intelligence, Machine Learning, Generative AI, NLP, Software Development, and AI Engineering. She is passionate about solving business problems using AI and continuously learning emerging technologies."
+  },
+  "why_ai": {
+    "questions": [
+      "why are you interested in ai",
+      "why did you choose ai and ml",
+      "why did you choose artificial intelligence",
+      "why do you want to work in ai",
+      "why ai engineering"
+    ],
+    "answer": "Srija is interested in Artificial Intelligence and Machine Learning because she is passionate about solving business problems using AI and building practical AI-powered solutions. Her academic specialization, internships, and projects have given her hands-on exposure to AI and ML."
+  },
+  "unknown_resume_information": {
+    "questions": [],
+    "answer": "I don't have that specific information in Srija's current profile, so I don't want to invent an answer."
+  }
+}

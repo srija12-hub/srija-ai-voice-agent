@@ -1,0 +1,34 @@
+{
+    "experience": [
+        {
+            "company": "Tayana Solutions",
+            "role": "Artificial Intelligence Intern",
+            "duration": "June 2026 - Present",
+            "responsibilities": [
+                "Built and optimized AI and Machine Learning models using Python and ML frameworks",
+                "Applied data preprocessing",
+                "Performed feature engineering",
+                "Worked on model evaluation",
+                "Worked on Generative AI and NLP-based solutions",
+                "Collaborated cross-functionally on AI-driven products"
+            ]
+        },
+        {
+            "company": "Agentblazer Champion Program",
+            "role": "Salesforce Developer Intern",
+            "duration": "May 2025 - July 2025",
+            "responsibilities": [
+                "Developed Salesforce applications using Apex and Lightning Web Components",
+                "Worked on process automation",
+                "Worked with object relationships",
+                "Worked with CRM data management",
+                "Worked on Salesforce development projects and business workflows"
+            ],
+            "achievements": [
+                "Apex Specialist Superbadge",
+                "Object Relationships Superbadge",
+                "LWC Basics Superbadge"
+            ]
+        }
+    ]
+}

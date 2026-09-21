@@ -1,0 +1,41 @@
+{
+    "programming_languages": [
+        "Python",
+        "Java",
+        "C++"
+    ],
+    "web_technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Spring Boot"
+    ],
+    "libraries": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+    ],
+    "databases": [
+        "SQL",
+        "MySQL"
+    ],
+    "computer_science": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming",
+        "Database Management Systems"
+    ],
+    "ai_ml": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis",
+        "Model Evaluation",
+        "Feature Engineering"
+    ],
+    "soft_skills": [
+        "Leadership",
+        "Teamwork",
+        "Problem Solving",
+        "Communication",
+        "Analytical Thinking"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "projects": [
+        {
+            "name": "AI-Powered Career Recommender and Roadmap Generator",
+            "category": "Artificial Intelligence / Machine Learning / NLP",
+            "description": "An AI-based system that recommends career paths based on a user's skills and interests.",
+            "technologies": [
+                "Machine Learning",
+                "Natural Language Processing"
+            ],
+            "key_functionality": [
+                "Career recommendations",
+                "Personalized learning roadmaps"
+            ]
+        },
+        {
+            "name": "Credit Card Fraud Detection System",
+            "category": "Machine Learning",
+            "description": "A Machine Learning system designed to identify suspicious credit card transactions.",
+            "key_areas": [
+                "Data preprocessing",
+                "Feature engineering",
+                "Model evaluation"
+            ]
+        }
+    ]
+}

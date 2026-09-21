@@ -1,0 +1,20 @@
+{
+    "certifications": [
+        {
+            "name": "Solve It with SQL",
+            "provider": "Oracle Academy"
+        },
+        {
+            "name": "Python for Everyone",
+            "provider": "Coursera"
+        },
+        {
+            "name": "Salesforce Developer",
+            "provider": "Agentblazer Champion"
+        },
+        {
+            "name": "Cambridge English Empower",
+            "level": "C1"
+        }
+    ]
+}
