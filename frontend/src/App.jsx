@@ -65,7 +65,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "/ask",
+        "https://srija-ai-backend.onrender.com/ask",
         {
           method: "POST",
           headers: {
